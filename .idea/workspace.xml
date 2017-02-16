@@ -1,7 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9f05b4d-1a56-422f-82f4-df6d0c1e6315" name="Default" comment="" />
+    <list default="true" id="b9f05b4d-1a56-422f-82f4-df6d0c1e6315" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/choose-layout-assets/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/choose-layout-assets/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/choose-layout-assets/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/choose-layout-assets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/css/form-elements.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/ico/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/img/backgrounds/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/img/backgrounds/1@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/js/jquery-1.11.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/js/jquery.backstretch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/js/jquery.backstretch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/js/placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/assets/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/css/form-elements.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/ico/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/img/backgrounds/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/img/backgrounds/1@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/img/backgrounds/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/img/backgrounds/2@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/img/backgrounds/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/img/backgrounds/3@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/js/jquery-1.11.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/js/jquery.backstretch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/js/jquery.backstretch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/js/placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/assets/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/css/form-elements.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/ico/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/img/backgrounds/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/img/backgrounds/1@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/js/jquery-1.11.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/js/jquery.backstretch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/js/jquery.backstretch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/js/placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/assets/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/form-3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/login.db" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/login.html" afterPath="$PROJECT_DIR$/templates/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/welcome.html" afterPath="$PROJECT_DIR$/templates/welcome.html" />
+    </list>
     <ignored path="webdatabase.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -14,7 +224,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/webdatabase$webdatabase.coverage" NAME="webdatabase Coverage Results" MODIFIED="1487185726722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/webdatabase$webdatabase.coverage" NAME="webdatabase Coverage Results" MODIFIED="1487247745504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -28,20 +238,21 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46925566">
-              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.8">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding>
-                <element signature="e#47#131#0" expanded="true" />
+                <element signature="e#47#140#0" expanded="true" />
+                <marker date="1487247745496" expanded="true" signature="820:839" placeholder="select * fro... posts" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/bootstrap.min.css">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.25">
+              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -50,8 +261,8 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -60,18 +271,8 @@
       <file leaf-file-name="welcome.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/welcome.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.backstretch.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery.backstretch.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -80,8 +281,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state vertical-scroll-proportion="-8.75">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -105,6 +306,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/webdatabase.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/login.html" />
         <option value="$PROJECT_DIR$/templates/welcome.html" />
@@ -443,24 +645,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1665" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19083558" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19083558" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3420502" sideWeight="0.49811321" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3420502" sideWeight="0.5018868" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3420502" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -486,7 +688,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#47#131#0" expanded="true" />
+            <element signature="e#47#140#0" expanded="true" />
+            <marker date="1487247745496" expanded="true" signature="820:839" placeholder="select * fro... posts" />
           </folding>
         </state>
       </provider>
@@ -515,14 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery.backstretch.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -536,7 +731,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#47#131#0" expanded="true" />
+            <element signature="e#47#140#0" expanded="true" />
+            <marker date="1487247745496" expanded="true" signature="820:839" placeholder="select * fro... posts" />
           </folding>
         </state>
       </provider>
@@ -557,14 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery.backstretch.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -578,63 +766,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#47#131#0" expanded="true" />
+            <element signature="e#47#140#0" expanded="true" />
+            <marker date="1487247745496" expanded="true" signature="820:839" placeholder="select * fro... posts" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/choose-layout-assets/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/choose-layout-assets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/placeholder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery-1.11.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery-1.11.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery.backstretch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery.backstretch.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,89 +785,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#47#131#0" expanded="true" />
+            <element signature="e#47#140#0" expanded="true" />
+            <marker date="1487247745496" expanded="true" signature="820:839" placeholder="select * fro... posts" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/choose-layout-assets/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/choose-layout-assets/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/choose-layout-assets/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery.backstretch.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery.backstretch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery-1.11.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/jquery-1.11.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/placeholder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form-1/assets/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/choose-layout-assets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,20 +799,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/welcome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46925566">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.8">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           <folding>
-            <element signature="e#47#131#0" expanded="true" />
+            <element signature="e#47#140#0" expanded="true" />
+            <marker date="1487247745496" expanded="true" signature="820:839" placeholder="select * fro... posts" />
           </folding>
         </state>
       </provider>
