@@ -4,7 +4,6 @@ from flask import Flask, render_template, redirect, \
 from functools import wraps
 from flask.ext.sqlalchemy import SQLAlchemy
 
-
 # create the application object
 app = Flask(__name__)
 
