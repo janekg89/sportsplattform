@@ -1,10 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
-
 <h1>Tennis Units</h1>
-<br>
-<p>Click <a href="/logout">here</a> to logout.</p>
-<br>
+
     <style>
 table {
     font-family: arial, sans-serif;
@@ -38,8 +35,12 @@ tr:nth-child(even) {
   </tr>
  {% endfor %}
 
-{% endblock %}
 </table>
 </body>
+<br>
+<p>Click <a href="/logout">here</a> to logout.</p>
+<br>
+{% endblock %}
+
 
 
